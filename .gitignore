@@ -1,0 +1,16 @@
+# Obsidian settings
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/graph.json
+.obsidian/sync/
+.obsidian/backups/
+.obsidian/plugins/obsidian-git/
+
+# System and OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Cache & Logs
+*.log
+.trash/
